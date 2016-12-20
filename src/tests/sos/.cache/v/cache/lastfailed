@@ -1,0 +1,5 @@
+{
+  "TarTest.py::test_tarfile_extrect": true,
+  "TarTest.py::test_tarfile_extrect_all": true,
+  "TarTest.py::test_tarfile_mkdir": true
+}
