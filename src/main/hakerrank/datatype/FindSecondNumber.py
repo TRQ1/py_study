@@ -7,6 +7,7 @@
 def get_number_by_size(size, numbers):
     return numbers[:size]
 
+
 def get_second_number(numbers):
     # max = None
     # second_max = None
