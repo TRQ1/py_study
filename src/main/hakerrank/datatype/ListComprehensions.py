@@ -9,7 +9,12 @@ strList = ['1', '2', '3', '4', '5']
 #list1 = [x for x in range(101) if x % 2 == 0]
 #print(list1)
 
-// == [1, 2, 3, 4, 5]
+#list =[]
+#for x in range(101):
+#    if x % 3 == 0:
+#        list.append(x)
 
-intList = []
-print(intList)
+#print(list)
+
+List2 = [x for x in range(101) if x % 3 == 0]
+print(List2)
