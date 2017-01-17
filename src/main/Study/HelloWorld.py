@@ -3,5 +3,6 @@ class Hello:
        self.words = words
        print(words)
 
-views = Hello()
-views.shows('Hello, World')
+if __name__ == '__main__':
+    views = Hello()
+    views.shows('Hello, World')
